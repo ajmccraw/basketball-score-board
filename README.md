@@ -16,7 +16,7 @@ To use this Basketball Score Board project, follow these instructions:
 1. Clone the repository to your local machine using `git clone`.
 
 ```bash
-git clone https://github.com/your-username/basketball-score-board.git
+git clone https://github.com/ajmccraw/basketball-score-board.git
 ```
 
 2. Open the project directory.
