@@ -4,6 +4,8 @@
 
 This is a simple web application for tracking the scores of a basketball game. It allows you to keep track of the scores for both the home and guest teams and provides buttons to increase the scores. Additionally, there is a reset button to reset the scores to zero.
 
+[Click here to try it out](https://aj-basketball-score-board.netlify.app/)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
